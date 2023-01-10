@@ -1,2 +1,2 @@
-# 2023-1-9_Startup_CS236
-Startup Application for CS236
+# 2023-1-9_Startup_CS260
+Startup Application for CS260
