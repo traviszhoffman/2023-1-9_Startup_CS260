@@ -17,4 +17,20 @@ Determine when customers don't show up and potentially why
 Results are persitently stored  
 Ability to send custom deal messages to customers based on previous purchases  
 
+Notes:  
+WEB SERVERS:
+
+Domain names are converted to IP address by doing a lookup in the Domain Name System (DNS). You can look up the IP address for any domain name using the dig console utility.  
+determine the hops in a connection using the traceroute
+top of tcp layer is application layer  
+
+Layer	Example	Purpose  
+Application	HTTPS	Functionality like web browsing  
+Transport	TCP	Moving connection information packets  
+Internet	IP	Establishing connections  
+Link	Fiber, hardware	Physical connections  
+
+curl to make http request  
+microservices to develop and mange independetly  
+serverless automatically scales  
 
