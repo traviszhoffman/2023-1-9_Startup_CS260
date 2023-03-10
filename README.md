@@ -32,5 +32,75 @@ Link	Fiber, hardware	Physical connections
 
 curl to make http request  
 microservices to develop and mange independetly  
-serverless automatically scales  
+serverless automatically 	1. Div creates a division element
+	2. To point to another dns record you should use Cname(are alials)
+		a. To put to an ip adress use an a record
+	3. @import url("and then the fonts)
+		a. Look up syntax to load
+	4. Finally always gets called, Burger,Fries, taco, shake, noodles, 
+		a. Java script promise being asychronous
+		b. Not resolved till time out, and call back function doesn’t happen untill after
+	5. Valid json {"x":3}
+		a. Key value is always in qoutes
+	6. Div.header { color: blue;} is the correct one
+	7. Not valid there is no <javascript>1+1
+		a. Valid script script src div onclick
+	8. Filter function uses regex (/A|f/i) /I makes case not matter
+	9. Not valid function f(x) = {}
+	10. Padding puts space aroundd the content of selected elements
+		a. Peanut butter maynoasi
+		b. Pals before marriage
+	11. Margin, boarder, padding , content
+		a. Starting on the outsize going in
+	12. Reducce function,map, filter,sum remember all these
+		a. Reduces to one value
+	13. Html tag for an undordered list
+		a. Ul
+	14. Adds a mouseoever event listner to a p element
+	15. <a href> for links
+	16. Map function
+	17. Dom text content property sets the child text for the an element
+	18. Chmod
+	19. Sudo
+	20. Ls -la
+	21. Ssh
+	
+	
+![image](https://user-images.githubusercontent.com/94704493/224236112-752dfca5-37b0-487f-acfc-e15109ceeae6.png)
+scales  
+
+** Midterm Review **
+
+	1. Div creates a division element
+	2. To point to another dns record you should use Cname(are alials)
+		a. To put to an ip adress use an a record
+	3. @import url("and then the fonts)
+		a. Look up syntax to load
+	4. Finally always gets called, Burger,Fries, taco, shake, noodles, 
+		a. Java script promise being asychronous
+		b. Not resolved till time out, and call back function doesn’t happen untill after
+	5. Valid json {"x":3}
+		a. Key value is always in qoutes
+	6. Div.header { color: blue;} is the correct one
+	7. Not valid there is no <javascript>1+1
+		a. Valid script script src div onclick
+	8. Filter function uses regex (/A|f/i) /I makes case not matter
+	9. Not valid function f(x) = {}
+	10. Padding puts space aroundd the content of selected elements
+		a. Peanut butter maynoasi
+		b. Pals before marriage
+	11. Margin, boarder, padding , content
+		a. Starting on the outsize going in
+	12. Reducce function,map, filter,sum remember all these
+		a. Reduces to one value
+	13. Html tag for an undordered list
+		a. Ul
+	14. Adds a mouseoever event listner to a p element
+	15. <a href> for links
+	16. Map function
+	17. Dom text content property sets the child text for the an element
+	18. Chmod
+	19. Sudo
+	20. Ls -la
+	21. Ssh
 
