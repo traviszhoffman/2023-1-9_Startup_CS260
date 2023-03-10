@@ -34,9 +34,6 @@ curl to make http request
 microservices to develop and mange independetly  
 serverless automatically 	
 
-![image](https://user-images.githubusercontent.com/94704493/224236112-752dfca5-37b0-487f-acfc-e15109ceeae6.png)
-scales  
-
 ** Midterm Review **
 
 	1. Div creates a division element
