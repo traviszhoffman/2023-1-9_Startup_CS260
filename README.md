@@ -55,7 +55,21 @@ The DNS database records that facilitate the mapping of domain names to IP addre
 ![image](https://user-images.githubusercontent.com/94704493/224237754-139c1809-519f-4a07-9860-9d1ab5db37ad.png)
 ![image](https://user-images.githubusercontent.com/94704493/224237811-32abd523-d4b7-4c68-b2ed-363457b740bd.png)
 ![image](https://user-images.githubusercontent.com/94704493/224238008-56921c83-a332-42b8-9cf5-5068ab1550d2.png)
-
+![image](https://user-images.githubusercontent.com/94704493/224238091-a157d1af-ebaf-4a54-aa22-b08cb92cd578.png)
+![image](https://user-images.githubusercontent.com/94704493/224238129-4775c682-4776-46ed-ab59-cbab40f46b22.png)
+![image](https://user-images.githubusercontent.com/94704493/224238186-cda0ffbf-3ed6-4fe1-af6e-5298d5da842d.png)
+![image](https://user-images.githubusercontent.com/94704493/224238252-6144a518-f55a-4aa6-802a-d5cc61d71f8f.png)
+![image](https://user-images.githubusercontent.com/94704493/224238311-d4878bef-2762-40d5-be62-34838ac15cf0.png)
+svg canvas
+![image](https://user-images.githubusercontent.com/94704493/224238517-f2866011-f832-4836-b259-5745b927dadc.png)
+element selectors, cobinators ex section h3
+![image](https://user-images.githubusercontent.com/94704493/224238718-91c6af04-6cc3-4f33-b4d7-c05fddc9e499.png)
+![image](https://user-images.githubusercontent.com/94704493/224238758-777c7e17-eda5-4352-88de-351738122890.png)
+![image](https://user-images.githubusercontent.com/94704493/224238783-9d823d96-a0a7-457a-86e6-57ac1f62912f.png)
+![image](https://user-images.githubusercontent.com/94704493/224238889-41d52a88-42dc-47b4-b40b-39753ba6f7ed.png)
+![image](https://user-images.githubusercontent.com/94704493/224238913-6baef2bf-2da2-4414-935f-f8e8f3dc7b02.png)
+![image](https://user-images.githubusercontent.com/94704493/224238950-c839e74b-8808-4331-be8d-6c2acd3f1609.png)
+viewpor-t meta tag, float, flexbox, media queries,,tailwind, bootstrap,
 
 
 ** Midterm Review **
